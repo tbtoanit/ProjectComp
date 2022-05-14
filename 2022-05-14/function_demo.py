@@ -21,3 +21,4 @@ if __name__ == "__main__": #đoạn code này chỉ được thực thi khi deve
     print("Cod chay trong file function demo")
     xac_thuc_email()
     luu_thong_tin_nguoi_dung()
+    print("hello")
