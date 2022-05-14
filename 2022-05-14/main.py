@@ -22,3 +22,6 @@ def kiem_tra_so_nguyen():
                 break
 
 kiem_tra_so_nguyen()
+
+def check_name():
+    pass
