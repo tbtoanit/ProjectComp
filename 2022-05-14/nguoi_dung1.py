@@ -4,4 +4,4 @@
 
 from math import *
 delta = sqrt(9)
-print(delta)
+print(delta^2)
