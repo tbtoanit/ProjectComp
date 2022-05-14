@@ -22,5 +22,6 @@ def letter_conbinations(value):
 kq = letter_conbinations("56")
 
 print(kq)
-print('test git')
+print('push lan 2')
+
 
