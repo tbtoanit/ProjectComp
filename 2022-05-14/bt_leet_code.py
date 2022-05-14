@@ -20,7 +20,7 @@ def letter_conbinations(value):
     return ds_kq
 
 kq = letter_conbinations("56")
-a='test git'
+
 print(kq)
-print(a)
+print('test git')
 
